@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/very_imp_project/static/css/main.887317f5.css",
+    "main.js": "/very_imp_project/static/js/main.210977ff.js",
+    "static/js/808.2c5145e0.chunk.js": "/very_imp_project/static/js/808.2c5145e0.chunk.js",
+    "static/media/flowerBear.gif": "/very_imp_project/static/media/flowerBear.7cb1db98af7339613d26.gif",
+    "static/media/kisses.gif": "/very_imp_project/static/media/kisses.419e28a9183f3abead95.gif",
+    "static/media/madBear.gif": "/very_imp_project/static/media/madBear.960144df23faee67bea0.gif",
+    "index.html": "/very_imp_project/index.html",
+    "main.887317f5.css.map": "/very_imp_project/static/css/main.887317f5.css.map",
+    "main.210977ff.js.map": "/very_imp_project/static/js/main.210977ff.js.map",
+    "808.2c5145e0.chunk.js.map": "/very_imp_project/static/js/808.2c5145e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.887317f5.css",
+    "static/js/main.210977ff.js"
+  ]
+}
